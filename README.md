@@ -1,2 +1,2 @@
 # NoSortSort
-A sort algorithm that can't sort but nearly sorts
+A sort algorithm that almost sorts
